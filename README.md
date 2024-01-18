@@ -1,0 +1,2 @@
+Dữ liệu được lấy từ trang OpenWeather thông qua API.OpenWeather là một trang web cung cấp thông tin thời tiết chính xác và chi tiết, giúp người dùng nắm bắt tình hình thời tiết mọi nơi trên thế giới. Với cơ sở dữ liệu rộng lớn và độ chính xác cao, OpenWeather đưa ra những dự báo đáng tin cậy và cập nhật nhanh chóng về nhiệt độ, độ ẩm, gió, áp suất, và nhiều thông tin khác
+![Uploading image.png…]()

@@ -1,5 +1,4 @@
 
-Dự án nghiên cứu này sẽ tập trung vào việc phân tích và xử lý bộ dữ liệu được thu thập từ trang web OpenWeather. Đây là một nguồn thông tin về thời tiết thời gian thực, cung cấp các thông tin quan trọng như thời gian, nhiệt độ, độ ẩm, độ mây che phủ, và các yếu tố khác ảnh hưởng đến dự báo thời tiết.
+This research project will focus on analyzing and processing datasets collected from the OpenWeather website. It is a source of real-time weather information, providing important information such as time, temperature, humidity, cloud cover, and other factors that affect weather forecasts.
 
-
-Đối tượng nghiên cứu cụ thể của dự án sẽ tập trung vào việc áp dụng Machine Learning để cải thiện hiệu suất dự báo thời tiết. Cụ thể, các mô hình học máy như Linear Regression, Decision Trees, Random Forests và Neural Networks sẽ được nghiên cứu và áp dụng để xây dựng mô hình dự báo thời tiết. Mục tiêu là áp dụng những kết quả này để nâng cao chất lượng và độ chính xác của dự báo thời tiết.
+The specific research object of the project will focus on applying Machine Learning to improve weather forecast performance. Specifically, machine learning models such as Linear Regression, Decision Trees, Random Forests and Neural Networks will be researched and applied to build weather forecast models. The goal is to apply these results to improve the quality and accuracy of weather forecasts.
